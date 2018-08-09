@@ -1,0 +1,23 @@
+{
+  "name": "desired-vh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mp3/desired-vh.git"
+  },
+  "author": "Takehiko Itabashi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mp3/desired-vh/issues"
+  },
+  "homepage": "https://github.com/mp3/desired-vh#readme",
+  "devDependencies": {
+    "typescript": "^3.0.1"
+  }
+}
